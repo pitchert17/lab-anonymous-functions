@@ -1,4 +1,4 @@
-lab-anonymous-procedures
-========================
+lab-anonymous-functions
+=======================
 
-Code for a laboratory on anonymous procedures
+Code for a laboratory on anonymous functions.
